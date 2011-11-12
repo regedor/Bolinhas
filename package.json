@@ -1,0 +1,15 @@
+{
+  "author": "Group Buddies",
+  "name": "Bolinhas",
+  "description": "Bolinhas has returned",
+  "version": "0.0.1",
+  "dependencies": {
+    "pusher-pipe": "0.0.x",
+    "express": "*",
+    "underscore": "1.1.x"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.4.0"
+  }
+}
